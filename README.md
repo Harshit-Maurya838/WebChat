@@ -1,7 +1,7 @@
 # 🚀 Real-Time Chat App  
 
 A full-stack real-time chat application built with **MERN Stack, Socket.io, TailwindCSS, and Daisy UI**. 
-Deployed - [WebChat](https://webchat-ezl0.onrender.com/)
+Deployed - [WebChat](https://webchat-3s8c.onrender.com)
 
 ## 🔥 Features  
 
