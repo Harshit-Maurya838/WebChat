@@ -69,10 +69,3 @@ npm start
 ## 📝 Feedback & Contributions  
 
 This project was a great learning experience, and I’d love to hear your thoughts! Feel free to **share feedback on the UI and overall experience**. 🚀  
-
-## 📜 License  
-
-This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for details.  
-
-### **Acknowledgment**  
-This project is based on the original work of **Burak** [Original Repository Link](https://github.com/burakorkmez/fullstack-chat-app), which is licensed under MIT. Modifications and enhancements have been made for learning and development purposes.  
